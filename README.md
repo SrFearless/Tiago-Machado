@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">♦ Eu me chamo Tiago de Freitas Machado, de Paraná - Brasil<br><br>♦ 24 Anos<br><br>♦ Desenvolvedor Back-End: TypeScript | MySQL | CSS | C++ | XAMPP | Node.Js | Git | Next.Js | React<br><br> Estou em busca de me profissionalizar na Programação para futuramente ser um Desenvolvedor full-stack Sênior</p>
+<p align="left">♦ Eu me chamo Tiago de Freitas Machado, de Paraná - Brasil<br><br>♦ 24 Anos<br><br>♦ Desenvolvedor Back-End: TypeScript | MySQL | CSS | C++ | Java | Node.Js | Git | Next.Js | React<br><br> Estou em busca de me profissionalizar na Programação para futuramente ser um Desenvolvedor full-stack Sênior</p>
 
 ###
 
