@@ -35,9 +35,11 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrFearless&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SrFearless&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=true&custom_title=Linguagens%20mais%20Usadas" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrFearless&area=false&hide_border=true&hide_title=true&theme=gotham" height="250" alt="activity-graph graph"  />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelnovaes&show_icons=true&locale=en&layout=compact"
+  alt="samuelnovaes"
+/>
+
 </div>
 
 ###
@@ -60,7 +62,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik4bmh_H8L93Lx_BrFmJHaRHPTgSp5VePEXMuYJpZTLXTW21OrUNIYHQ9Nls_Aov3B8vuWoCw3qje4NwTjz74tK_JFQRCHEqVKIA1Gz2AmdiNI0Z8DdwCdyMIGlgp2DvLrLMyMshe-mdA/s1600/4.gif"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrFearless&area=false&hide_border=true&hide_title=true&theme=gotham" height="250" alt="activity-graph graph"  />
 </div>
 
 ###
